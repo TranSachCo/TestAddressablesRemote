@@ -2,7 +2,11 @@
     "groupsHash": [
         {
             "groupName": "SeasonalEvent_Easter",
-            "hash": "45eba41713b5e6700eddbbf67162a7aa"
+            "hash": "4f9aeaea9e7d53c36ed287b2dd69ee41"
+        },
+        {
+            "groupName": "Remote_Event_IAP_Pack",
+            "hash": "77050ebf1cd78d8ca7dc0fbb9184720c"
         }
     ]
 }
