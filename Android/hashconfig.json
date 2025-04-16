@@ -1,1 +1,20 @@
-{"groupsHash":[{"groupName":"SeasonalEvent_Valentine","hash":"74488a3614c45a7de207587326dcbcd0"},{"groupName":"SeasonalEvent_Hanami","hash":"6c67259ce5acdeda8f173144e5a4811f"},{"groupName":"SeasonalEvent_Easter","hash":"4f9aeaea9e7d53c36ed287b2dd69ee41"},{"groupName":"SeasonalEvent_WomensDay","hash":"92958bedcab811c994af31084404366d"}]}
+{
+    "groupsHash": [
+        {
+            "groupName": "SeasonalEvent_Valentine",
+            "hash": "74488a3614c45a7de207587326dcbcd0"
+        },
+        {
+            "groupName": "SeasonalEvent_Hanami",
+            "hash": "24ea97d87ce3c3e88820a478ab4128c7"
+        },
+        {
+            "groupName": "SeasonalEvent_Easter",
+            "hash": "4f9aeaea9e7d53c36ed287b2dd69ee41"
+        },
+        {
+            "groupName": "SeasonalEvent_WomensDay",
+            "hash": "92958bedcab811c994af31084404366d"
+        }
+    ]
+}
