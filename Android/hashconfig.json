@@ -19,6 +19,10 @@
 		{
             "groupName": "SeasonalEvent_Summer",
             "hash": "70ab863109c3e0b24fe82716fb6f8273"
+        },
+		 {
+            "groupName": "SeasonalEvent_FatherDay",
+            "hash": "075809659195cfd88b6b27c55213e7bc"
         }
     ]
 }
