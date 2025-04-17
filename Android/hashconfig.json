@@ -15,6 +15,10 @@
         {
             "groupName": "SeasonalEvent_WomensDay",
             "hash": "92958bedcab811c994af31084404366d"
+        },
+		{
+            "groupName": "SeasonalEvent_Summer",
+            "hash": "70ab863109c3e0b24fe82716fb6f8273"
         }
     ]
 }
